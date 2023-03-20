@@ -1,0 +1,15 @@
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.exe
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.deps.json
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.runtimeconfig.json
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\bin\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.AssemblyReference.cache
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfoInputs.cache
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.AssemblyInfo.cs
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.csproj.CoreCompileInputs.cache
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.dll
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\refint\bytebank_ATENDIMENTO.dll
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.pdb
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\bytebank_ATENDIMENTO.genruntimeconfig.cache
+C:\Users\phlga\OneDrive\Área de Trabalho\Array_Collections_C-CodigoInicial\bytebank_ATENDIMENTO\obj\Debug\net6.0\ref\bytebank_ATENDIMENTO.dll
